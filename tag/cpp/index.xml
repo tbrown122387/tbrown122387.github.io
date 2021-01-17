@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cpp | Taylor R. Brown</title>
+    <link>tbrown122387.github.io/tag/cpp/</link>
+      <atom:link href="tbrown122387.github.io/tag/cpp/index.xml" rel="self" type="application/rss+xml" />
+    <description>cpp</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 28 Jan 2020 18:52:19 -0500</lastBuildDate>
+    <image>
+      <url>tbrown122387.github.io/media/IMG_0382.JPG</url>
+      <title>cpp</title>
+      <link>tbrown122387.github.io/tag/cpp/</link>
+    </image>
+    
+    <item>
+      <title>PF: a c&#43;&#43; library for fast particle filtering</title>
+      <link>tbrown122387.github.io/code/pf/</link>
+      <pubDate>Tue, 28 Jan 2020 18:52:19 -0500</pubDate>
+      <guid>tbrown122387.github.io/code/pf/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags | Taylor R. Brown</title>
+    <link>tbrown122387.github.io/tags/</link>
+      <atom:link href="tbrown122387.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 28 Jan 2020 18:52:19 -0500</lastBuildDate>
+    <image>
+      <url>tbrown122387.github.io/media/IMG_0382.JPG</url>
+      <title>Tags</title>
+      <link>tbrown122387.github.io/tags/</link>
+    </image>
+    
+  </channel>
+</rss>

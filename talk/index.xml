@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks | Taylor R. Brown</title>
+    <link>tbrown122387.github.io/talk/</link>
+      <atom:link href="tbrown122387.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent &amp; Upcoming Talks</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>tbrown122387.github.io/media/IMG_0382.JPG</url>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>tbrown122387.github.io/talk/</link>
+    </image>
+    
+    <item>
+      <title>Data 8 Adoption Panel</title>
+      <link>tbrown122387.github.io/talk/data8talk/</link>
+      <pubDate>Sun, 28 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>tbrown122387.github.io/talk/data8talk/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;tbrown122387.github.io/tbrown122387.github.io/files/panel_pres.pdf&#34;&gt;Download slides here&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Estimating generalized linear models with the pseudo-marginal Metropolis-Hastings algorithm</title>
+      <link>tbrown122387.github.io/talk/jsm2019talk/</link>
+      <pubDate>Sun, 28 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>tbrown122387.github.io/talk/jsm2019talk/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;tbrown122387.github.io/tbrown122387.github.io/files/taylors_jsm_pres.pdf&#34;&gt;Download presentation here&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Estimating Multivariate Stochastic Volatility Models with Particle MCMC</title>
+      <link>tbrown122387.github.io/talk/tomtomtalk/</link>
+      <pubDate>Thu, 11 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>tbrown122387.github.io/talk/tomtomtalk/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;tbrown122387.github.io/tbrown122387.github.io/files/taylors_tomtom_pres.pdf&#34;&gt;Download presentation here&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

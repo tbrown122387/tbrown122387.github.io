@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>(Some) Courses | Taylor R. Brown</title>
+    <link>tbrown122387.github.io/courses/</link>
+      <atom:link href="tbrown122387.github.io/courses/index.xml" rel="self" type="application/rss+xml" />
+    <description>(Some) Courses</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>tbrown122387.github.io/media/IMG_0382.JPG</url>
+      <title>(Some) Courses</title>
+      <link>tbrown122387.github.io/courses/</link>
+    </image>
+    
+    <item>
+      <title>STAT 5170: Applied Time Series</title>
+      <link>tbrown122387.github.io/courses/5170/</link>
+      <pubDate>Sun, 19 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>tbrown122387.github.io/courses/5170/</guid>
+      <description>&lt;p&gt;Feel free to message me directly for other types of materials.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>STAT 5430: Statistical Computing with SAS and R</title>
+      <link>tbrown122387.github.io/courses/5430/</link>
+      <pubDate>Sun, 19 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>tbrown122387.github.io/courses/5430/</guid>
+      <description>&lt;p&gt;Feel free to message me directly for other types of materials.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>STAT 7220: Introduction to Advanced Probability</title>
+      <link>tbrown122387.github.io/courses/7200/</link>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>tbrown122387.github.io/courses/7200/</guid>
+      <description>&lt;p&gt;Feel free to message me directly for other types of materials.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>STAT 8120: Topics In Statistics (Particle Filters)</title>
+      <link>tbrown122387.github.io/courses/8120/</link>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>tbrown122387.github.io/courses/8120/</guid>
+      <description>&lt;p&gt;Feel free to message me directly for other types of materials.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>STAT 6021 Linear Models for Data Science</title>
+      <link>tbrown122387.github.io/courses/6021/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>tbrown122387.github.io/courses/6021/</guid>
+      <description>&lt;p&gt;Feel free to message me directly for other types of materials.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>STAT 6440 Introduction to Bayesian Methods</title>
+      <link>tbrown122387.github.io/courses/6440/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>tbrown122387.github.io/courses/6440/</guid>
+      <description>&lt;p&gt;Feel free to message me directly for other types of materials.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>STAT 3120 Introduction to Mathematical Statistics</title>
+      <link>tbrown122387.github.io/courses/3120/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>tbrown122387.github.io/courses/3120/</guid>
+      <description>&lt;p&gt;Feel free to message me directly for other types of materials.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>STAT 4170 Financial Time Series and Forecasting</title>
+      <link>tbrown122387.github.io/courses/4170/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>tbrown122387.github.io/courses/4170/</guid>
+      <description>&lt;p&gt;Feel free to message me directly for other types of materials.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

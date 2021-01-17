@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Timothy L. McMurry | Taylor R. Brown</title>
+    <link>tbrown122387.github.io/author/timothy-l.-mcmurry/</link>
+      <atom:link href="tbrown122387.github.io/author/timothy-l.-mcmurry/index.xml" rel="self" type="application/rss+xml" />
+    <description>Timothy L. McMurry</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 22 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>tbrown122387.github.io/media/IMG_0382.JPG</url>
+      <title>Timothy L. McMurry</title>
+      <link>tbrown122387.github.io/author/timothy-l.-mcmurry/</link>
+    </image>
+    
+    <item>
+      <title>A Pseudo-Marginal Metropolis-Hastings Algorithm for Estimating Generalized Linear Models in t    he Presence of Missing Data</title>
+      <link>tbrown122387.github.io/publication/pmglmpaper/</link>
+      <pubDate>Mon, 22 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>tbrown122387.github.io/publication/pmglmpaper/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
