@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Taylor R. Brown</title>
-    <link>tbrown122387.github.io/author.html</link>
-      <atom:link href="tbrown122387.github.io/author/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://tbrown122387.github.io/author.html</link>
+      <atom:link href="https://tbrown122387.github.io/author/index.xml" rel="self" type="application/rss+xml" />
     <description>Taylor R. Brown</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>tbrown122387.github.io/media/IMG_0382.JPG</url>
+      <url>https://tbrown122387.github.io/media/IMG_0382.JPG</url>
       <title>Taylor R. Brown</title>
-      <link>tbrown122387.github.io/author.html</link>
+      <link>https://tbrown122387.github.io/author.html</link>
     </image>
     
   </channel>
