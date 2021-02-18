@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Taylor Brown | Taylor R. Brown</title>
-    <link>tbrown122387.github.io/author/taylor-brown/</link>
-      <atom:link href="tbrown122387.github.io/author/taylor-brown/index.xml" rel="self" type="application/rss+xml" />
+    <link>/author/taylor-brown/</link>
+      <atom:link href="/author/taylor-brown/index.xml" rel="self" type="application/rss+xml" />
     <description>Taylor Brown</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>tbrown122387.github.io/media/IMG_0382.JPG</url>
+      <url>media/IMG_0382.JPG</url>
       <title>Taylor Brown</title>
-      <link>tbrown122387.github.io/author/taylor-brown/</link>
+      <link>/author/taylor-brown/</link>
     </image>
     
     <item>
       <title>Factor Stochastic Volatility Models for Portfolio Construction</title>
-      <link>tbrown122387.github.io/publication/https-doi-org-10-18130-v-3-zw-18-r-9-v/</link>
+      <link>/publication/https-doi-org-10-18130-v-3-zw-18-r-9-v/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>tbrown122387.github.io/publication/https-doi-org-10-18130-v-3-zw-18-r-9-v/</guid>
+      <guid>/publication/https-doi-org-10-18130-v-3-zw-18-r-9-v/</guid>
       <description></description>
     </item>
     

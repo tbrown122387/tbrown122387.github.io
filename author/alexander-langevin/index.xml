@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Alexander Langevin | Taylor R. Brown</title>
-    <link>tbrown122387.github.io/author/alexander-langevin/</link>
-      <atom:link href="tbrown122387.github.io/author/alexander-langevin/index.xml" rel="self" type="application/rss+xml" />
+    <link>/author/alexander-langevin/</link>
+      <atom:link href="/author/alexander-langevin/index.xml" rel="self" type="application/rss+xml" />
     <description>Alexander Langevin</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 22 Jul 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>tbrown122387.github.io/media/IMG_0382.JPG</url>
+      <url>media/IMG_0382.JPG</url>
       <title>Alexander Langevin</title>
-      <link>tbrown122387.github.io/author/alexander-langevin/</link>
+      <link>/author/alexander-langevin/</link>
     </image>
     
     <item>
       <title>A Pseudo-Marginal Metropolis-Hastings Algorithm for Estimating Generalized Linear Models in t    he Presence of Missing Data</title>
-      <link>tbrown122387.github.io/publication/pmglmpaper/</link>
+      <link>/publication/pmglmpaper/</link>
       <pubDate>Mon, 22 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>tbrown122387.github.io/publication/pmglmpaper/</guid>
+      <guid>/publication/pmglmpaper/</guid>
       <description></description>
     </item>
     

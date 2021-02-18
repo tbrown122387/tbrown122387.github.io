@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publication_types | Taylor R. Brown</title>
-    <link>tbrown122387.github.io/publication_types/</link>
-      <atom:link href="tbrown122387.github.io/publication_types/index.xml" rel="self" type="application/rss+xml" />
+    <link>/publication_types/</link>
+      <atom:link href="/publication_types/index.xml" rel="self" type="application/rss+xml" />
     <description>Publication_types</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 10 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>tbrown122387.github.io/media/IMG_0382.JPG</url>
+      <url>media/IMG_0382.JPG</url>
       <title>Publication_types</title>
-      <link>tbrown122387.github.io/publication_types/</link>
+      <link>/publication_types/</link>
     </image>
     
   </channel>
