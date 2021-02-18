@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>financial time series | Taylor R. Brown</title>
-    <link>/tag/financial-time-series/</link>
-      <atom:link href="/tag/financial-time-series/index.xml" rel="self" type="application/rss+xml" />
+    <link>tbrown122387.github.io/tag/financial-time-series.html</link>
+      <atom:link href="tbrown122387.github.io/tag/financial-time-series/index.xml" rel="self" type="application/rss+xml" />
     <description>financial time series</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>media/IMG_0382.JPG</url>
+      <url>tbrown122387.github.io/media/IMG_0382.JPG</url>
       <title>financial time series</title>
-      <link>/tag/financial-time-series/</link>
+      <link>tbrown122387.github.io/tag/financial-time-series.html</link>
     </image>
     
     <item>
       <title>Factor Stochastic Volatility Models for Portfolio Construction</title>
-      <link>/publication/https-doi-org-10-18130-v-3-zw-18-r-9-v/</link>
+      <link>tbrown122387.github.io/publication/https-doi-org-10-18130-v-3-zw-18-r-9-v.html</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/https-doi-org-10-18130-v-3-zw-18-r-9-v/</guid>
+      <guid>tbrown122387.github.io/publication/https-doi-org-10-18130-v-3-zw-18-r-9-v.html</guid>
       <description></description>
     </item>
     

@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Codes | Taylor R. Brown</title>
-    <link>/code/</link>
-      <atom:link href="/code/index.xml" rel="self" type="application/rss+xml" />
+    <link>tbrown122387.github.io/code.html</link>
+      <atom:link href="tbrown122387.github.io/code/index.xml" rel="self" type="application/rss+xml" />
     <description>Codes</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 28 Jan 2020 18:52:19 -0500</lastBuildDate>
     <image>
-      <url>media/IMG_0382.JPG</url>
+      <url>tbrown122387.github.io/media/IMG_0382.JPG</url>
       <title>Codes</title>
-      <link>/code/</link>
+      <link>tbrown122387.github.io/code.html</link>
     </image>
     
     <item>
       <title>PF: a c&#43;&#43; library for fast particle filtering</title>
-      <link>/code/pf/</link>
+      <link>tbrown122387.github.io/code/pf.html</link>
       <pubDate>Tue, 28 Jan 2020 18:52:19 -0500</pubDate>
-      <guid>/code/pf/</guid>
+      <guid>tbrown122387.github.io/code/pf.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>gradeR: helps grade R script assignment submissions!</title>
-      <link>/code/grader/</link>
+      <link>tbrown122387.github.io/code/grader.html</link>
       <pubDate>Tue, 28 Jan 2020 18:50:37 -0500</pubDate>
-      <guid>/code/grader/</guid>
+      <guid>tbrown122387.github.io/code/grader.html</guid>
       <description></description>
     </item>
     

@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>3 | Taylor R. Brown</title>
-    <link>/publication-type/3/</link>
-      <atom:link href="/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
+    <link>tbrown122387.github.io/publication-type/3.html</link>
+      <atom:link href="tbrown122387.github.io/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 10 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>media/IMG_0382.JPG</url>
+      <url>tbrown122387.github.io/media/IMG_0382.JPG</url>
       <title>3</title>
-      <link>/publication-type/3/</link>
+      <link>tbrown122387.github.io/publication-type/3.html</link>
     </image>
     
     <item>
       <title>A Short Introduction to PF: A C&#43;&#43; Library for Particle Filtering</title>
-      <link>/publication/shortpfpaper/</link>
+      <link>tbrown122387.github.io/publication/shortpfpaper.html</link>
       <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/shortpfpaper/</guid>
+      <guid>tbrown122387.github.io/publication/shortpfpaper.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Approximating Posterior Predictive Distributions by Averaging Output From Many Particle Filters</title>
-      <link>/publication/swarmpaper/</link>
+      <link>tbrown122387.github.io/publication/swarmpaper.html</link>
       <pubDate>Mon, 20 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/swarmpaper/</guid>
+      <guid>tbrown122387.github.io/publication/swarmpaper.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>PF: A C&#43;&#43; Library for Fast Particle Filtering</title>
-      <link>/publication/pfpaper/</link>
+      <link>tbrown122387.github.io/publication/pfpaper.html</link>
       <pubDate>Tue, 28 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/pfpaper/</guid>
+      <guid>tbrown122387.github.io/publication/pfpaper.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Pseudo-Marginal Metropolis-Hastings Algorithm for Estimating Generalized Linear Models in t    he Presence of Missing Data</title>
-      <link>/publication/pmglmpaper/</link>
+      <link>tbrown122387.github.io/publication/pmglmpaper.html</link>
       <pubDate>Mon, 22 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/pmglmpaper/</guid>
+      <guid>tbrown122387.github.io/publication/pmglmpaper.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Factor Stochastic Volatility Model with Markov-Switching Panic Regimes</title>
-      <link>/publication/1903-01841/</link>
+      <link>tbrown122387.github.io/publication/1903-01841.html</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/1903-01841/</guid>
+      <guid>tbrown122387.github.io/publication/1903-01841.html</guid>
       <description></description>
     </item>
     
