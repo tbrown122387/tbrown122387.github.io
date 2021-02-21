@@ -2,177 +2,175 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Taylor R. Brown</title>
-    <link>/</link>
-      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://tbrown122387.github.io/</link>
+      <atom:link href="https://tbrown122387.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Taylor R. Brown</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 10 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>media/IMG_0382.JPG</url>
+      <url>https://tbrown122387.github.io/media/IMG_0382.JPG</url>
       <title>Taylor R. Brown</title>
-      <link>/</link>
+      <link>https://tbrown122387.github.io/</link>
     </image>
     
     <item>
       <title>A Short Introduction to PF: A C&#43;&#43; Library for Particle Filtering</title>
-      <link>/publication/shortpfpaper.html</link>
+      <link>https://tbrown122387.github.io/publication/shortpfpaper.html</link>
       <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/shortpfpaper.html</guid>
+      <guid>https://tbrown122387.github.io/publication/shortpfpaper.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Approximating Posterior Predictive Distributions by Averaging Output From Many Particle Filters</title>
-      <link>/publication/swarmpaper.html</link>
+      <link>https://tbrown122387.github.io/publication/swarmpaper.html</link>
       <pubDate>Mon, 20 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/swarmpaper.html</guid>
+      <guid>https://tbrown122387.github.io/publication/swarmpaper.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>STAT 5170: Applied Time Series</title>
-      <link>/courses/5170.html</link>
+      <link>https://tbrown122387.github.io/courses/5170.html</link>
       <pubDate>Sun, 19 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/courses/5170.html</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/tbrown122387/stat_5170_slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slides&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://vimeo.com/showcase/7469503&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Feel free to message me directly for other types of materials.&lt;/p&gt;
+      <guid>https://tbrown122387.github.io/courses/5170.html</guid>
+      <description>&lt;p&gt;Feel free to message me directly for other types of materials.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>STAT 5430: Statistical Computing with SAS and R</title>
-      <link>/courses/5430.html</link>
+      <link>https://tbrown122387.github.io/courses/5430.html</link>
       <pubDate>Sun, 19 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/courses/5430.html</guid>
+      <guid>https://tbrown122387.github.io/courses/5430.html</guid>
       <description>&lt;p&gt;Feel free to message me directly for other types of materials.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>PF: a c&#43;&#43; library for fast particle filtering</title>
-      <link>/code/pf.html</link>
+      <link>https://tbrown122387.github.io/code/pf.html</link>
       <pubDate>Tue, 28 Jan 2020 18:52:19 -0500</pubDate>
-      <guid>/code/pf.html</guid>
+      <guid>https://tbrown122387.github.io/code/pf.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>gradeR: helps grade R script assignment submissions!</title>
-      <link>/code/grader.html</link>
+      <link>https://tbrown122387.github.io/code/grader.html</link>
       <pubDate>Tue, 28 Jan 2020 18:50:37 -0500</pubDate>
-      <guid>/code/grader.html</guid>
+      <guid>https://tbrown122387.github.io/code/grader.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>PF: A C&#43;&#43; Library for Fast Particle Filtering</title>
-      <link>/publication/pfpaper.html</link>
+      <link>https://tbrown122387.github.io/publication/pfpaper.html</link>
       <pubDate>Tue, 28 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/pfpaper.html</guid>
+      <guid>https://tbrown122387.github.io/publication/pfpaper.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>STAT 7220: Introduction to Advanced Probability</title>
-      <link>/courses/7200.html</link>
+      <link>https://tbrown122387.github.io/courses/7200.html</link>
       <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/courses/7200.html</guid>
+      <guid>https://tbrown122387.github.io/courses/7200.html</guid>
       <description>&lt;p&gt;Feel free to message me directly for other types of materials.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>STAT 8120: Topics In Statistics (Particle Filters)</title>
-      <link>/courses/8120.html</link>
+      <link>https://tbrown122387.github.io/courses/8120.html</link>
       <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/courses/8120.html</guid>
+      <guid>https://tbrown122387.github.io/courses/8120.html</guid>
       <description>&lt;p&gt;Feel free to message me directly for other types of materials.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Data 8 Adoption Panel</title>
-      <link>/talk/data8talk.html</link>
+      <link>https://tbrown122387.github.io/talk/data8talk.html</link>
       <pubDate>Sun, 28 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>/talk/data8talk.html</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;/files/panel_pres.pdf&#34;&gt;Download slides here&lt;/a&gt;&lt;/p&gt;
+      <guid>https://tbrown122387.github.io/talk/data8talk.html</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://tbrown122387.github.io/files/panel_pres.pdf&#34;&gt;Download slides here&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Estimating generalized linear models with the pseudo-marginal Metropolis-Hastings algorithm</title>
-      <link>/talk/jsm2019talk.html</link>
+      <link>https://tbrown122387.github.io/talk/jsm2019talk.html</link>
       <pubDate>Sun, 28 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>/talk/jsm2019talk.html</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;/files/taylors_jsm_pres.pdf&#34;&gt;Download presentation here&lt;/a&gt;&lt;/p&gt;
+      <guid>https://tbrown122387.github.io/talk/jsm2019talk.html</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://tbrown122387.github.io/files/taylors_jsm_pres.pdf&#34;&gt;Download presentation here&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>A Pseudo-Marginal Metropolis-Hastings Algorithm for Estimating Generalized Linear Models in t    he Presence of Missing Data</title>
-      <link>/publication/pmglmpaper.html</link>
+      <link>https://tbrown122387.github.io/publication/pmglmpaper.html</link>
       <pubDate>Mon, 22 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/pmglmpaper.html</guid>
+      <guid>https://tbrown122387.github.io/publication/pmglmpaper.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>STAT 6021 Linear Models for Data Science</title>
-      <link>/courses/6021.html</link>
+      <link>https://tbrown122387.github.io/courses/6021.html</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>/courses/6021.html</guid>
+      <guid>https://tbrown122387.github.io/courses/6021.html</guid>
       <description>&lt;p&gt;Feel free to message me directly for other types of materials.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Estimating Multivariate Stochastic Volatility Models with Particle MCMC</title>
-      <link>/talk/tomtomtalk.html</link>
+      <link>https://tbrown122387.github.io/talk/tomtomtalk.html</link>
       <pubDate>Thu, 11 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>/talk/tomtomtalk.html</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;/files/taylors_tomtom_pres.pdf&#34;&gt;Download presentation here&lt;/a&gt;&lt;/p&gt;
+      <guid>https://tbrown122387.github.io/talk/tomtomtalk.html</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://tbrown122387.github.io/files/taylors_tomtom_pres.pdf&#34;&gt;Download presentation here&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>A Factor Stochastic Volatility Model with Markov-Switching Panic Regimes</title>
-      <link>/publication/1903-01841.html</link>
+      <link>https://tbrown122387.github.io/publication/1903-01841.html</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/1903-01841.html</guid>
+      <guid>https://tbrown122387.github.io/publication/1903-01841.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>STAT 6440 Introduction to Bayesian Methods</title>
-      <link>/courses/6440.html</link>
+      <link>https://tbrown122387.github.io/courses/6440.html</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/courses/6440.html</guid>
+      <guid>https://tbrown122387.github.io/courses/6440.html</guid>
       <description>&lt;p&gt;Feel free to message me directly for other types of materials.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>STAT 3120 Introduction to Mathematical Statistics</title>
-      <link>/courses/3120.html</link>
+      <link>https://tbrown122387.github.io/courses/3120.html</link>
       <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>/courses/3120.html</guid>
+      <guid>https://tbrown122387.github.io/courses/3120.html</guid>
       <description>&lt;p&gt;Feel free to message me directly for other types of materials.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Factor Stochastic Volatility Models for Portfolio Construction</title>
-      <link>/publication/https-doi-org-10-18130-v-3-zw-18-r-9-v.html</link>
+      <link>https://tbrown122387.github.io/publication/https-doi-org-10-18130-v-3-zw-18-r-9-v.html</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/https-doi-org-10-18130-v-3-zw-18-r-9-v.html</guid>
+      <guid>https://tbrown122387.github.io/publication/https-doi-org-10-18130-v-3-zw-18-r-9-v.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>STAT 4170 Financial Time Series and Forecasting</title>
-      <link>/courses/4170.html</link>
+      <link>https://tbrown122387.github.io/courses/4170.html</link>
       <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
-      <guid>/courses/4170.html</guid>
+      <guid>https://tbrown122387.github.io/courses/4170.html</guid>
       <description>&lt;p&gt;Feel free to message me directly for other types of materials.&lt;/p&gt;
 </description>
     </item>

@@ -2,86 +2,84 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>(Some) Courses | Taylor R. Brown</title>
-    <link>/courses.html</link>
-      <atom:link href="/courses/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://tbrown122387.github.io/courses.html</link>
+      <atom:link href="https://tbrown122387.github.io/courses/index.xml" rel="self" type="application/rss+xml" />
     <description>(Some) Courses</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>media/IMG_0382.JPG</url>
+      <url>https://tbrown122387.github.io/media/IMG_0382.JPG</url>
       <title>(Some) Courses</title>
-      <link>/courses.html</link>
+      <link>https://tbrown122387.github.io/courses.html</link>
     </image>
     
     <item>
       <title>STAT 5170: Applied Time Series</title>
-      <link>/courses/5170.html</link>
+      <link>https://tbrown122387.github.io/courses/5170.html</link>
       <pubDate>Sun, 19 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/courses/5170.html</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/tbrown122387/stat_5170_slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slides&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://vimeo.com/showcase/7469503&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Feel free to message me directly for other types of materials.&lt;/p&gt;
+      <guid>https://tbrown122387.github.io/courses/5170.html</guid>
+      <description>&lt;p&gt;Feel free to message me directly for other types of materials.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>STAT 5430: Statistical Computing with SAS and R</title>
-      <link>/courses/5430.html</link>
+      <link>https://tbrown122387.github.io/courses/5430.html</link>
       <pubDate>Sun, 19 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/courses/5430.html</guid>
+      <guid>https://tbrown122387.github.io/courses/5430.html</guid>
       <description>&lt;p&gt;Feel free to message me directly for other types of materials.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>STAT 7220: Introduction to Advanced Probability</title>
-      <link>/courses/7200.html</link>
+      <link>https://tbrown122387.github.io/courses/7200.html</link>
       <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/courses/7200.html</guid>
+      <guid>https://tbrown122387.github.io/courses/7200.html</guid>
       <description>&lt;p&gt;Feel free to message me directly for other types of materials.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>STAT 8120: Topics In Statistics (Particle Filters)</title>
-      <link>/courses/8120.html</link>
+      <link>https://tbrown122387.github.io/courses/8120.html</link>
       <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/courses/8120.html</guid>
+      <guid>https://tbrown122387.github.io/courses/8120.html</guid>
       <description>&lt;p&gt;Feel free to message me directly for other types of materials.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>STAT 6021 Linear Models for Data Science</title>
-      <link>/courses/6021.html</link>
+      <link>https://tbrown122387.github.io/courses/6021.html</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>/courses/6021.html</guid>
+      <guid>https://tbrown122387.github.io/courses/6021.html</guid>
       <description>&lt;p&gt;Feel free to message me directly for other types of materials.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>STAT 6440 Introduction to Bayesian Methods</title>
-      <link>/courses/6440.html</link>
+      <link>https://tbrown122387.github.io/courses/6440.html</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/courses/6440.html</guid>
+      <guid>https://tbrown122387.github.io/courses/6440.html</guid>
       <description>&lt;p&gt;Feel free to message me directly for other types of materials.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>STAT 3120 Introduction to Mathematical Statistics</title>
-      <link>/courses/3120.html</link>
+      <link>https://tbrown122387.github.io/courses/3120.html</link>
       <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>/courses/3120.html</guid>
+      <guid>https://tbrown122387.github.io/courses/3120.html</guid>
       <description>&lt;p&gt;Feel free to message me directly for other types of materials.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>STAT 4170 Financial Time Series and Forecasting</title>
-      <link>/courses/4170.html</link>
+      <link>https://tbrown122387.github.io/courses/4170.html</link>
       <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
-      <guid>/courses/4170.html</guid>
+      <guid>https://tbrown122387.github.io/courses/4170.html</guid>
       <description>&lt;p&gt;Feel free to message me directly for other types of materials.&lt;/p&gt;
 </description>
     </item>
