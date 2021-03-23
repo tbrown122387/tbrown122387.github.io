@@ -5,12 +5,21 @@
     <link>https://tbrown122387.github.io/</link>
       <atom:link href="https://tbrown122387.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Taylor R. Brown</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 10 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 19 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://tbrown122387.github.io/media/IMG_0382.JPG</url>
       <title>Taylor R. Brown</title>
       <link>https://tbrown122387.github.io/</link>
     </image>
+    
+    <item>
+      <title>Real-Time Bayesian Forecasting with State-Space Models</title>
+      <link>https://tbrown122387.github.io/talk/swarm_talk.html</link>
+      <pubDate>Fri, 19 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://tbrown122387.github.io/talk/swarm_talk.html</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://tbrown122387.github.io/files/swarm_pres.pdf&#34;&gt;Download presentation here&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>A Short Introduction to PF: A C&#43;&#43; Library for Particle Filtering</title>

@@ -34,10 +34,11 @@
   
     
   
-  <meta name="description" content="">
+  <meta name="description" content="Nonlinear and/or non-Gaussian state-space models are a very general and expressive class of data-generating processes that can be useful for modeling all kinds of streaming time series data. However, this generality comes at a price. Both parameter inference and filtering are challenging when using these models, and unfortunately, real-time forecasting combines both of these tasks into one.
+In this talk, I provide a high-level overview of the algorithms that are available for this task, and I describe the three-way tradeoff between bias, variance and computational cost. I then introduce, in a non-technical way, the particle swarm filter, and provide an example on “pricing” options on the S&amp;P 500 index.">
 
   
-  <link rel="alternate" hreflang="en-us" href="/code/grader/">
+  <link rel="alternate" hreflang="en-us" href="https://tbrown122387.github.io/talk/swarm_talk.html">
 
   
 
@@ -257,7 +258,7 @@
   <link rel="icon" type="image/png" href="/images/icon_hu45a94010692e5adb76d6ac36256b7294_956_32x32_fill_lanczos_center_2.png">
   <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu45a94010692e5adb76d6ac36256b7294_956_192x192_fill_lanczos_center_2.png">
 
-  <link rel="canonical" href="/code/grader/">
+  <link rel="canonical" href="https://tbrown122387.github.io/talk/swarm_talk.html">
 
   
   
@@ -275,15 +276,16 @@
   <meta property="twitter:creator" content="@Taylor50041702">
   
   <meta property="og:site_name" content="Taylor R. Brown">
-  <meta property="og:url" content="/code/grader/">
-  <meta property="og:title" content="gradeR: helps grade R script assignment submissions! | Taylor R. Brown">
-  <meta property="og:description" content=""><meta property="og:image" content="media/IMG_0382.JPG">
-  <meta property="twitter:image" content="media/IMG_0382.JPG"><meta property="og:locale" content="en-us">
+  <meta property="og:url" content="https://tbrown122387.github.io/talk/swarm_talk.html">
+  <meta property="og:title" content="Real-Time Bayesian Forecasting with State-Space Models | Taylor R. Brown">
+  <meta property="og:description" content="Nonlinear and/or non-Gaussian state-space models are a very general and expressive class of data-generating processes that can be useful for modeling all kinds of streaming time series data. However, this generality comes at a price. Both parameter inference and filtering are challenging when using these models, and unfortunately, real-time forecasting combines both of these tasks into one.
+In this talk, I provide a high-level overview of the algorithms that are available for this task, and I describe the three-way tradeoff between bias, variance and computational cost. I then introduce, in a non-technical way, the particle swarm filter, and provide an example on “pricing” options on the S&amp;P 500 index."><meta property="og:image" content="https://tbrown122387.github.io/media/IMG_0382.JPG">
+  <meta property="twitter:image" content="https://tbrown122387.github.io/media/IMG_0382.JPG"><meta property="og:locale" content="en-us">
   
     
-      <meta property="article:published_time" content="2020-01-28T18:50:37-05:00">
+      <meta property="article:published_time" content="2021-03-19T00:00:00&#43;00:00">
     
-    <meta property="article:modified_time" content="2020-01-29T09:43:32-05:00">
+    <meta property="article:modified_time" content="2021-03-19T00:00:00&#43;00:00">
   
 
   
@@ -291,7 +293,28 @@
 
 
   
+    
 
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Event",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://tbrown122387.github.io/talk/swarm_talk.html"
+  },
+  "name": "Real-Time Bayesian Forecasting with State-Space Models",
+  
+  
+  "startDate": "2021-03-19T00:00:00Z",
+  
+  
+  "description": "Nonlinear and/or non-Gaussian state-space models are a very general and expressive class of data-generating processes that can be useful for modeling all kinds of streaming time series data. However, this generality comes at a price. Both parameter inference and filtering are challenging when using these models, and unfortunately, real-time forecasting combines both of these tasks into one.\nIn this talk, I provide a high-level overview of the algorithms that are available for this task, and I describe the three-way tradeoff between bias, variance and computational cost. I then introduce, in a non-technical way, the particle swarm filter, and provide an example on “pricing” options on the S\u0026P 500 index."
+}
+</script>
 
   
 
@@ -299,10 +322,13 @@
   
 
 
+  
 
 
 
-  <title>gradeR: helps grade R script assignment submissions! | Taylor R. Brown</title>
+
+
+  <title>Real-Time Bayesian Forecasting with State-Space Models | Taylor R. Brown</title>
 
 </head>
 
@@ -690,7 +716,7 @@
 
 
 
-  <article class="article">
+  <div class="pub">
 
   
 
@@ -711,7 +737,7 @@
   
   
 <div class="article-container pt-3">
-  <h1>gradeR: helps grade R script assignment submissions!</h1>
+  <h1>Real-Time Bayesian Forecasting with State-Space Models</h1>
 
   
 
@@ -725,16 +751,6 @@
   
 
   
-  <span class="article-date">
-    
-    
-      
-          Last updated on
-      
-    
-    Jan 29, 2020
-  </span>
-  
 
   
 
@@ -762,61 +778,6 @@
 
 
 
-
-<div class="btn-links mb-3">
-  
-  
-
-
-
-
-
-
-
-
-  
-    
-  
-
-
-
-<a class="btn btn-outline-primary my-1 mr-1" href="/https:/cran.r-project.org/web/packages/gradeR/gradeR.pdf" target="_blank" rel="noopener">
-  PDF
-</a>
-
-
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary my-1 mr-1" href="/https:/github.com/tbrown122387/grader" target="_blank" rel="noopener">
-  Code
-</a>
-
-
-
-
-
-
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary my-1 mr-1" href="/https:/cran.r-project.org/web/packages/gradeR/vignettes/gradeR.html" target="_blank" rel="noopener">
-  Slides
-</a>
-
-
-
-
-
-
-
-</div>
 
 
   
@@ -826,8 +787,35 @@
 
   <div class="article-container">
 
+    
+      <h3>Abstract</h3>
+      <p class="pub-abstract">Nonlinear and/or non-Gaussian state-space models are a very general and expressive class of data-generating processes that can be useful for modeling all kinds of streaming time series data. However, this generality comes at a price. Both parameter inference and filtering are challenging when using these models, and unfortunately, real-time forecasting combines both of these tasks into one.
+In this talk, I provide a high-level overview of the algorithms that are available for this task, and I describe the three-way tradeoff between bias, variance and computational cost. I then introduce, in a non-technical way, the particle swarm filter, and provide an example on “pricing” options on the S&amp;P 500 index.</p>
+    
+
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Date</div>
+          <div class="col-12 col-md-9">
+            Mar 19, 2021 12:00 AM
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+
+    
+
+    
+
+    <div class="space-below"></div>
+
     <div class="article-style">
-      
+      <p><a href="/files/swarm_pres.pdf">Download presentation here</a></p>
+
     </div>
 
     
@@ -836,12 +824,6 @@
 
 
 
-
-<div class="article-tags">
-  
-  <a class="badge badge-light" href="/tag/r/">R</a>
-  
-</div>
 
 
 
@@ -856,7 +838,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=/code/grader/&amp;text=gradeR:%20helps%20grade%20R%20script%20assignment%20submissions!" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=https://tbrown122387.github.io/talk/swarm_talk.html&amp;text=Real-Time%20Bayesian%20Forecasting%20with%20State-Space%20Models" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -869,7 +851,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=/code/grader/&amp;t=gradeR:%20helps%20grade%20R%20script%20assignment%20submissions!" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https://tbrown122387.github.io/talk/swarm_talk.html&amp;t=Real-Time%20Bayesian%20Forecasting%20with%20State-Space%20Models" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -882,7 +864,7 @@
       
       
       <li>
-        <a href="mailto:?subject=gradeR:%20helps%20grade%20R%20script%20assignment%20submissions!&amp;body=/code/grader/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=Real-Time%20Bayesian%20Forecasting%20with%20State-Space%20Models&amp;body=https://tbrown122387.github.io/talk/swarm_talk.html" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -895,7 +877,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=/code/grader/&amp;title=gradeR:%20helps%20grade%20R%20script%20assignment%20submissions!" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=https://tbrown122387.github.io/talk/swarm_talk.html&amp;title=Real-Time%20Bayesian%20Forecasting%20with%20State-Space%20Models" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -908,7 +890,7 @@
       
       
       <li>
-        <a href="whatsapp://send?text=gradeR:%20helps%20grade%20R%20script%20assignment%20submissions!%20/code/grader/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="whatsapp://send?text=Real-Time%20Bayesian%20Forecasting%20with%20State-Space%20Models%20https://tbrown122387.github.io/talk/swarm_talk.html" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -921,7 +903,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=/code/grader/&amp;title=gradeR:%20helps%20grade%20R%20script%20assignment%20submissions!" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https://tbrown122387.github.io/talk/swarm_talk.html&amp;title=Real-Time%20Bayesian%20Forecasting%20with%20State-Space%20Models" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -954,11 +936,11 @@
   <div class="media author-card content-widget-hr">
     
       
-      <a href=""><img class="avatar mr-3 avatar-circle" src="/author/avatar_hu5fd8bfde9a1b22fd35fbd45b469c15c0_1476632_270x270_fill_q90_lanczos_center.jpg" alt=""></a>
+      <a href="https://tbrown122387.github.io/"><img class="avatar mr-3 avatar-circle" src="/author/avatar_hu5fd8bfde9a1b22fd35fbd45b469c15c0_1476632_270x270_fill_q90_lanczos_center.jpg" alt=""></a>
     
 
     <div class="media-body">
-      <h5 class="card-title"><a href=""></a></h5>
+      <h5 class="card-title"><a href="https://tbrown122387.github.io/"></a></h5>
       <h6 class="card-subtitle">Lecturer of Statistics</h6>
       <p class="card-text">My research interests include particle filtering and Markov chain Monte Carlo algorithms.</p>
       <ul class="network-icon" aria-hidden="true">
@@ -1067,10 +1049,9 @@
   
   
   <div class="post-nav-item">
-    <div class="meta-nav">Next</div>
-    <a href="/code/pf/" rel="next">PF: a c&#43;&#43; library for fast particle filtering</a>
+    <div class="meta-nav">Previous</div>
+    <a href="/talk/data8talk.html" rel="prev">Data 8 Adoption Panel</a>
   </div>
-  
   
 </div>
 
@@ -1080,12 +1061,15 @@
 
 
 
+  
+  
+
 
 
 
 
   </div>
-</article>
+</div>
 
       
 
