@@ -5,12 +5,36 @@
     <link>https://tbrown122387.github.io/</link>
       <atom:link href="https://tbrown122387.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Taylor R. Brown</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 19 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 25 Sep 2021 13:42:53 -0400</lastBuildDate>
     <image>
       <url>https://tbrown122387.github.io/media/IMG_0382.JPG</url>
       <title>Taylor R. Brown</title>
       <link>https://tbrown122387.github.io/</link>
     </image>
+    
+    <item>
+      <title>Autograder Generator Website</title>
+      <link>https://tbrown122387.github.io/project/autograder_site.html</link>
+      <pubDate>Sat, 25 Sep 2021 13:42:53 -0400</pubDate>
+      <guid>https://tbrown122387.github.io/project/autograder_site.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Introduction to R and Python For Data Analysis: A Side By Side Approach</title>
+      <link>https://tbrown122387.github.io/publication/randpybook.html</link>
+      <pubDate>Thu, 23 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://tbrown122387.github.io/publication/randpybook.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cPseudoMaRg: Constructs a Correlated Pseudo-Marginal Sampler</title>
+      <link>https://tbrown122387.github.io/code/cpseudomarg.html</link>
+      <pubDate>Sun, 05 Sep 2021 18:50:37 -0500</pubDate>
+      <guid>https://tbrown122387.github.io/code/cpseudomarg.html</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Real-Time Bayesian Forecasting with State-Space Models</title>

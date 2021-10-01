@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Taylor R. Brown</title>
+    <link>https://tbrown122387.github.io/project.html</link>
+      <atom:link href="https://tbrown122387.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 25 Sep 2021 13:42:53 -0400</lastBuildDate>
+    <image>
+      <url>https://tbrown122387.github.io/media/IMG_0382.JPG</url>
+      <title>Projects</title>
+      <link>https://tbrown122387.github.io/project.html</link>
+    </image>
+    
+    <item>
+      <title>Autograder Generator Website</title>
+      <link>https://tbrown122387.github.io/project/autograder_site.html</link>
+      <pubDate>Sat, 25 Sep 2021 13:42:53 -0400</pubDate>
+      <guid>https://tbrown122387.github.io/project/autograder_site.html</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

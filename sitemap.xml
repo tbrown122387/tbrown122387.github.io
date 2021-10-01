@@ -3,12 +3,67 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://tbrown122387.github.io/talk/swarm_talk.html</loc>
-    <lastmod>2021-03-23T16:46:14-04:00</lastmod>
+    <loc>https://tbrown122387.github.io/project/autograder_site.html</loc>
+    <lastmod>2021-09-25T14:12:18-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tbrown122387.github.io/project.html</loc>
+    <lastmod>2021-09-25T14:12:18-04:00</lastmod>
   </url>
   
   <url>
     <loc>https://tbrown122387.github.io/</loc>
+    <lastmod>2021-09-25T14:12:18-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tbrown122387.github.io/publication-type/5.html</loc>
+    <lastmod>2021-09-23T16:54:08-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tbrown122387.github.io/publication/randpybook.html</loc>
+    <lastmod>2021-09-23T16:54:08-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tbrown122387.github.io/authors.html</loc>
+    <lastmod>2021-09-25T13:28:37-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tbrown122387.github.io/publication_types.html</loc>
+    <lastmod>2021-09-23T16:54:08-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tbrown122387.github.io/author/taylor-r.-brown.html</loc>
+    <lastmod>2021-09-23T16:54:08-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tbrown122387.github.io/code.html</loc>
+    <lastmod>2021-09-23T16:50:45-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tbrown122387.github.io/code/cpseudomarg.html</loc>
+    <lastmod>2021-09-23T16:50:45-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tbrown122387.github.io/tag/r.html</loc>
+    <lastmod>2021-09-23T16:50:45-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tbrown122387.github.io/tags.html</loc>
+    <lastmod>2021-09-23T16:50:45-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tbrown122387.github.io/talk/swarm_talk.html</loc>
     <lastmod>2021-03-23T16:46:14-04:00</lastmod>
   </url>
   
@@ -19,21 +74,6 @@
   
   <url>
     <loc>https://tbrown122387.github.io/publication/shortpfpaper.html</loc>
-    <lastmod>2020-10-09T14:23:52-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tbrown122387.github.io/authors.html</loc>
-    <lastmod>2020-10-09T14:23:52-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tbrown122387.github.io/publication_types.html</loc>
-    <lastmod>2020-10-09T14:23:52-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tbrown122387.github.io/author/taylor-r.-brown.html</loc>
     <lastmod>2020-10-09T14:23:52-04:00</lastmod>
   </url>
   
@@ -58,11 +98,6 @@
   </url>
   
   <url>
-    <loc>https://tbrown122387.github.io/code.html</loc>
-    <lastmod>2020-01-29T09:43:32-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://tbrown122387.github.io/tag/cpp.html</loc>
     <lastmod>2020-01-29T09:43:32-05:00</lastmod>
   </url>
@@ -73,17 +108,7 @@
   </url>
   
   <url>
-    <loc>https://tbrown122387.github.io/tags.html</loc>
-    <lastmod>2020-01-29T09:43:32-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://tbrown122387.github.io/code/grader.html</loc>
-    <lastmod>2020-01-29T09:43:32-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tbrown122387.github.io/tag/r.html</loc>
     <lastmod>2020-01-29T09:43:32-05:00</lastmod>
   </url>
   
@@ -179,7 +204,7 @@
   
   <url>
     <loc>https://tbrown122387.github.io/author.html</loc>
-    <lastmod>2020-10-01T17:43:54+01:00</lastmod>
+    <lastmod>2021-09-25T13:28:37-04:00</lastmod>
   </url>
   
   <url>
