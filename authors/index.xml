@@ -1,16 +1,101 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors | Taylor R. Brown</title>
+    <title>Authors on Taylor R. Brown</title>
     <link>https://tbrown122387.github.io/authors.html</link>
-      <atom:link href="https://tbrown122387.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
-    <description>Authors</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 10 Oct 2020 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://tbrown122387.github.io/media/IMG_0382.JPG</url>
-      <title>Authors</title>
-      <link>https://tbrown122387.github.io/authors.html</link>
-    </image>
+    <description>Recent content in Authors on Taylor R. Brown</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 04 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://tbrown122387.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bruce A. Corliss</title>
+      <link>https://tbrown122387.github.io/author/bruce-a.-corliss.html</link>
+      <pubDate>Tue, 04 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://tbrown122387.github.io/author/bruce-a.-corliss.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heman Shakeri</title>
+      <link>https://tbrown122387.github.io/author/heman-shakeri.html</link>
+      <pubDate>Tue, 04 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://tbrown122387.github.io/author/heman-shakeri.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kevin A. Janes</title>
+      <link>https://tbrown122387.github.io/author/kevin-a.-janes.html</link>
+      <pubDate>Tue, 04 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://tbrown122387.github.io/author/kevin-a.-janes.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Philip E. Bourne</title>
+      <link>https://tbrown122387.github.io/author/philip-e.-bourne.html</link>
+      <pubDate>Tue, 04 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://tbrown122387.github.io/author/philip-e.-bourne.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Taylor R. Brown</title>
+      <link>https://tbrown122387.github.io/author/taylor-r.-brown.html</link>
+      <pubDate>Tue, 04 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://tbrown122387.github.io/author/taylor-r.-brown.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tingting Zhang</title>
+      <link>https://tbrown122387.github.io/author/tingting-zhang.html</link>
+      <pubDate>Tue, 04 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://tbrown122387.github.io/author/tingting-zhang.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alexander Langevin</title>
+      <link>https://tbrown122387.github.io/author/alexander-langevin.html</link>
+      <pubDate>Mon, 22 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://tbrown122387.github.io/author/alexander-langevin.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Timothy L. McMurry</title>
+      <link>https://tbrown122387.github.io/author/timothy-l.-mcmurry.html</link>
+      <pubDate>Mon, 22 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://tbrown122387.github.io/author/timothy-l.-mcmurry.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Taylor Brown</title>
+      <link>https://tbrown122387.github.io/author/taylor-brown.html</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://tbrown122387.github.io/author/taylor-brown.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://tbrown122387.github.io/author.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tbrown122387.github.io/author.html</guid>
+      <description>Taylor Brown is a lecturer of statistics at the University of Virginia. His research interests include state space models, particle filtering, and Markov chain Monte Carlo algorithms.</description>
+    </item>
     
   </channel>
 </rss>

@@ -1,16 +1,10 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories | Taylor R. Brown</title>
+    <title>Categories on Taylor R. Brown</title>
     <link>https://tbrown122387.github.io/categories.html</link>
-      <atom:link href="https://tbrown122387.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
-    <description>Categories</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
-    <image>
-      <url>https://tbrown122387.github.io/media/IMG_0382.JPG</url>
-      <title>Categories</title>
-      <link>https://tbrown122387.github.io/categories.html</link>
-    </image>
-    
+    <description>Recent content in Categories on Taylor R. Brown</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://tbrown122387.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
