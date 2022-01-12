@@ -1,17 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tingting Zhang on Taylor R. Brown</title>
+    <title>Tingting Zhang | Taylor R. Brown</title>
     <link>https://tbrown122387.github.io/author/tingting-zhang.html</link>
-    <description>Recent content in Tingting Zhang on Taylor R. Brown</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 04 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://tbrown122387.github.io/author/tingting-zhang/index.xml" rel="self" type="application/rss+xml" />
+      <atom:link href="https://tbrown122387.github.io/author/tingting-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tingting Zhang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 04 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tbrown122387.github.io/media/IMG_0382.JPG</url>
+      <title>Tingting Zhang</title>
+      <link>https://tbrown122387.github.io/author/tingting-zhang.html</link>
+    </image>
+    
     <item>
       <title>The Most Difference in Means: A Statistic for Null and Near-Zero Results</title>
       <link>https://tbrown122387.github.io/publication/mdm_paper.html</link>
       <pubDate>Tue, 04 Jan 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://tbrown122387.github.io/publication/mdm_paper.html</guid>
       <description></description>
     </item>

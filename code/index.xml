@@ -1,17 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Codes on Taylor R. Brown</title>
+    <title>Codes | Taylor R. Brown</title>
     <link>https://tbrown122387.github.io/code.html</link>
-    <description>Recent content in Codes on Taylor R. Brown</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 05 Sep 2021 18:50:37 -0500</lastBuildDate><atom:link href="https://tbrown122387.github.io/code/index.xml" rel="self" type="application/rss+xml" />
+      <atom:link href="https://tbrown122387.github.io/code/index.xml" rel="self" type="application/rss+xml" />
+    <description>Codes</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 05 Sep 2021 18:50:37 -0500</lastBuildDate>
+    <image>
+      <url>https://tbrown122387.github.io/media/IMG_0382.JPG</url>
+      <title>Codes</title>
+      <link>https://tbrown122387.github.io/code.html</link>
+    </image>
+    
     <item>
       <title>cPseudoMaRg: Constructs a Correlated Pseudo-Marginal Sampler</title>
       <link>https://tbrown122387.github.io/code/cpseudomarg.html</link>
       <pubDate>Sun, 05 Sep 2021 18:50:37 -0500</pubDate>
-      
       <guid>https://tbrown122387.github.io/code/cpseudomarg.html</guid>
       <description></description>
     </item>
@@ -20,7 +24,6 @@
       <title>PF: a c&#43;&#43; library for fast particle filtering</title>
       <link>https://tbrown122387.github.io/code/pf.html</link>
       <pubDate>Tue, 28 Jan 2020 18:52:19 -0500</pubDate>
-      
       <guid>https://tbrown122387.github.io/code/pf.html</guid>
       <description></description>
     </item>
@@ -29,7 +32,6 @@
       <title>gradeR: helps grade R script assignment submissions!</title>
       <link>https://tbrown122387.github.io/code/grader.html</link>
       <pubDate>Tue, 28 Jan 2020 18:50:37 -0500</pubDate>
-      
       <guid>https://tbrown122387.github.io/code/grader.html</guid>
       <description></description>
     </item>

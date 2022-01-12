@@ -1,47 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Taylor R. Brown</title>
+    <title>Tags | Taylor R. Brown</title>
     <link>https://tbrown122387.github.io/tags.html</link>
-    <description>Recent content in Tags on Taylor R. Brown</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 05 Sep 2021 18:50:37 -0500</lastBuildDate><atom:link href="https://tbrown122387.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>R</title>
-      <link>https://tbrown122387.github.io/tag/r.html</link>
-      <pubDate>Sun, 05 Sep 2021 18:50:37 -0500</pubDate>
-      
-      <guid>https://tbrown122387.github.io/tag/r.html</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>c&#43;&#43;</title>
-      <link>https://tbrown122387.github.io/tag/c-.html</link>
-      <pubDate>Tue, 28 Jan 2020 18:52:19 -0500</pubDate>
-      
-      <guid>https://tbrown122387.github.io/tag/c-.html</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>cpp</title>
-      <link>https://tbrown122387.github.io/tag/cpp.html</link>
-      <pubDate>Tue, 28 Jan 2020 18:52:19 -0500</pubDate>
-      
-      <guid>https://tbrown122387.github.io/tag/cpp.html</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>financial time series</title>
-      <link>https://tbrown122387.github.io/tag/financial-time-series.html</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://tbrown122387.github.io/tag/financial-time-series.html</guid>
-      <description></description>
-    </item>
+      <atom:link href="https://tbrown122387.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 05 Sep 2021 18:50:37 -0500</lastBuildDate>
+    <image>
+      <url>https://tbrown122387.github.io/media/IMG_0382.JPG</url>
+      <title>Tags</title>
+      <link>https://tbrown122387.github.io/tags.html</link>
+    </image>
     
   </channel>
 </rss>

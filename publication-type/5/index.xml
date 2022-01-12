@@ -1,17 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>5 on Taylor R. Brown</title>
+    <title>5 | Taylor R. Brown</title>
     <link>https://tbrown122387.github.io/publication-type/5.html</link>
-    <description>Recent content in 5 on Taylor R. Brown</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 23 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://tbrown122387.github.io/publication-type/5/index.xml" rel="self" type="application/rss+xml" />
+      <atom:link href="https://tbrown122387.github.io/publication-type/5/index.xml" rel="self" type="application/rss+xml" />
+    <description>5</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 23 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tbrown122387.github.io/media/IMG_0382.JPG</url>
+      <title>5</title>
+      <link>https://tbrown122387.github.io/publication-type/5.html</link>
+    </image>
+    
     <item>
       <title>An Introduction to R and Python For Data Analysis: A Side By Side Approach</title>
       <link>https://tbrown122387.github.io/publication/randpybook.html</link>
       <pubDate>Thu, 23 Sep 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://tbrown122387.github.io/publication/randpybook.html</guid>
       <description></description>
     </item>
