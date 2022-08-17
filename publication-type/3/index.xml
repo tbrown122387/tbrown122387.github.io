@@ -5,12 +5,20 @@
     <link>https://tbrown122387.github.io/publication-type/3.html</link>
       <atom:link href="https://tbrown122387.github.io/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 04 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 05 Aug 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://tbrown122387.github.io/media/IMG_0382.JPG</url>
       <title>3</title>
       <link>https://tbrown122387.github.io/publication-type/3.html</link>
     </image>
+    
+    <item>
+      <title>A Case-Study of Sample-Based Bayesian Forecasting Algorithms</title>
+      <link>https://tbrown122387.github.io/publication/applied_swarm_paper.html</link>
+      <pubDate>Fri, 05 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://tbrown122387.github.io/publication/applied_swarm_paper.html</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The Most Difference in Means: A Statistic for Null and Near-Zero Results</title>

@@ -5,12 +5,20 @@
     <link>https://tbrown122387.github.io/</link>
       <atom:link href="https://tbrown122387.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Taylor R. Brown</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 05 Aug 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://tbrown122387.github.io/media/IMG_0382.JPG</url>
       <title>Taylor R. Brown</title>
       <link>https://tbrown122387.github.io/</link>
     </image>
+    
+    <item>
+      <title>A Case-Study of Sample-Based Bayesian Forecasting Algorithms</title>
+      <link>https://tbrown122387.github.io/publication/applied_swarm_paper.html</link>
+      <pubDate>Fri, 05 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://tbrown122387.github.io/publication/applied_swarm_paper.html</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>STAT 7200: Advanced Inference</title>
