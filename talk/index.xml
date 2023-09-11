@@ -13,6 +13,15 @@
     </image>
     
     <item>
+      <title>pfR</title>
+      <link>https://tbrown122387.github.io/talk/isf_2023_talk.html</link>
+      <pubDate>Sun, 25 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://tbrown122387.github.io/talk/isf_2023_talk.html</guid>
+      <description>&lt;p&gt;[Download presentation here]({{ &amp;ldquo;files/isf_talk.html&amp;rdquo; }})&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Real-Time Bayesian Forecasting with State-Space Models</title>
       <link>https://tbrown122387.github.io/talk/swarm_talk.html</link>
       <pubDate>Fri, 19 Mar 2021 00:00:00 +0000</pubDate>

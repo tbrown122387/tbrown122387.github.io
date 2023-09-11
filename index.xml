@@ -5,12 +5,29 @@
     <link>https://tbrown122387.github.io/</link>
       <atom:link href="https://tbrown122387.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Taylor R. Brown</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 05 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 10 Sep 2023 18:50:37 -0500</lastBuildDate>
     <image>
       <url>https://tbrown122387.github.io/media/IMG_0382.JPG</url>
       <title>Taylor R. Brown</title>
       <link>https://tbrown122387.github.io/</link>
     </image>
+    
+    <item>
+      <title>pfr: Interface to the C&#43;&#43; Library pf</title>
+      <link>https://tbrown122387.github.io/code/pfr.html</link>
+      <pubDate>Sun, 10 Sep 2023 18:50:37 -0500</pubDate>
+      <guid>https://tbrown122387.github.io/code/pfr.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pfR</title>
+      <link>https://tbrown122387.github.io/talk/isf_2023_talk.html</link>
+      <pubDate>Sun, 25 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://tbrown122387.github.io/talk/isf_2023_talk.html</guid>
+      <description>&lt;p&gt;[Download presentation here]({{ &amp;ldquo;files/isf_talk.html&amp;rdquo; }})&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>A Case-Study of Sample-Based Bayesian Forecasting Algorithms</title>
