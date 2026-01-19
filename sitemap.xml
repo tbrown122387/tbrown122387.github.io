@@ -2,38 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://tbrown122387.github.io/code.html</loc>
-    <lastmod>2023-09-10T18:50:37-05:00</lastmod>
-  </url><url>
-    <loc>https://tbrown122387.github.io/code/pfr.html</loc>
-    <lastmod>2023-09-10T18:50:37-05:00</lastmod>
-  </url><url>
-    <loc>https://tbrown122387.github.io/tag/r.html</loc>
-    <lastmod>2023-09-10T18:50:37-05:00</lastmod>
-  </url><url>
-    <loc>https://tbrown122387.github.io/tags.html</loc>
-    <lastmod>2023-09-10T18:50:37-05:00</lastmod>
-  </url><url>
-    <loc>https://tbrown122387.github.io/</loc>
-    <lastmod>2023-09-10T18:50:37-05:00</lastmod>
-  </url><url>
-    <loc>https://tbrown122387.github.io/talk/isf_2023_talk.html</loc>
-    <lastmod>2023-06-25T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://tbrown122387.github.io/publication-type/3.html</loc>
     <lastmod>2022-08-16T20:26:59-04:00</lastmod>
   </url><url>
     <loc>https://tbrown122387.github.io/publication/applied_swarm_paper.html</loc>
     <lastmod>2022-08-16T20:26:59-04:00</lastmod>
   </url><url>
-    <loc>https://tbrown122387.github.io/authors.html</loc>
-    <lastmod>2022-08-16T20:26:59-04:00</lastmod>
-  </url><url>
     <loc>https://tbrown122387.github.io/publication_types.html</loc>
     <lastmod>2022-08-16T20:26:59-04:00</lastmod>
   </url><url>
-    <loc>https://tbrown122387.github.io/author/taylor-r.-brown.html</loc>
-    <lastmod>2022-08-16T20:26:59-04:00</lastmod>
+    <loc>https://tbrown122387.github.io/</loc>
+    <lastmod>2026-01-19T15:21:14-05:00</lastmod>
   </url><url>
     <loc>https://tbrown122387.github.io/courses/6040.html</loc>
     <lastmod>2022-08-17T16:13:45-04:00</lastmod>
@@ -41,22 +20,7 @@
     <loc>https://tbrown122387.github.io/courses/7510.html</loc>
     <lastmod>2022-01-11T17:51:17-05:00</lastmod>
   </url><url>
-    <loc>https://tbrown122387.github.io/author/bruce-a.-corliss.html</loc>
-    <lastmod>2022-01-11T17:51:17-05:00</lastmod>
-  </url><url>
-    <loc>https://tbrown122387.github.io/author/heman-shakeri.html</loc>
-    <lastmod>2022-01-11T17:51:17-05:00</lastmod>
-  </url><url>
-    <loc>https://tbrown122387.github.io/author/kevin-a.-janes.html</loc>
-    <lastmod>2022-01-11T17:51:17-05:00</lastmod>
-  </url><url>
-    <loc>https://tbrown122387.github.io/author/philip-e.-bourne.html</loc>
-    <lastmod>2022-01-11T17:51:17-05:00</lastmod>
-  </url><url>
     <loc>https://tbrown122387.github.io/publication/mdm_paper.html</loc>
-    <lastmod>2022-01-11T17:51:17-05:00</lastmod>
-  </url><url>
-    <loc>https://tbrown122387.github.io/author/tingting-zhang.html</loc>
     <lastmod>2022-01-11T17:51:17-05:00</lastmod>
   </url><url>
     <loc>https://tbrown122387.github.io/courses/3250.html</loc>
@@ -68,7 +32,16 @@
     <loc>https://tbrown122387.github.io/publication/randpybook.html</loc>
     <lastmod>2021-09-23T16:54:08-04:00</lastmod>
   </url><url>
+    <loc>https://tbrown122387.github.io/code.html</loc>
+    <lastmod>2021-09-23T16:50:45-04:00</lastmod>
+  </url><url>
     <loc>https://tbrown122387.github.io/code/cpseudomarg.html</loc>
+    <lastmod>2021-09-23T16:50:45-04:00</lastmod>
+  </url><url>
+    <loc>https://tbrown122387.github.io/tag/r.html</loc>
+    <lastmod>2021-09-23T16:50:45-04:00</lastmod>
+  </url><url>
+    <loc>https://tbrown122387.github.io/tags.html</loc>
     <lastmod>2021-09-23T16:50:45-04:00</lastmod>
   </url><url>
     <loc>https://tbrown122387.github.io/talk/swarm_talk.html</loc>
@@ -116,12 +89,6 @@
     <loc>https://tbrown122387.github.io/publication/pmglmpaper.html</loc>
     <lastmod>2020-01-29T09:43:32-05:00</lastmod>
   </url><url>
-    <loc>https://tbrown122387.github.io/author/alexander-langevin.html</loc>
-    <lastmod>2020-01-29T09:43:32-05:00</lastmod>
-  </url><url>
-    <loc>https://tbrown122387.github.io/author/timothy-l.-mcmurry.html</loc>
-    <lastmod>2020-01-29T09:43:32-05:00</lastmod>
-  </url><url>
     <loc>https://tbrown122387.github.io/courses/6021.html</loc>
     <lastmod>2020-01-29T09:43:32-05:00</lastmod>
   </url><url>
@@ -146,17 +113,19 @@
     <loc>https://tbrown122387.github.io/tag/financial-time-series.html</loc>
     <lastmod>2020-01-29T09:43:32-05:00</lastmod>
   </url><url>
-    <loc>https://tbrown122387.github.io/author/taylor-brown.html</loc>
-    <lastmod>2020-01-29T09:43:32-05:00</lastmod>
-  </url><url>
     <loc>https://tbrown122387.github.io/courses/4170.html</loc>
     <lastmod>2020-01-29T09:43:32-05:00</lastmod>
   </url><url>
-    <loc>https://tbrown122387.github.io/author.html</loc>
-    <lastmod>2022-01-12T18:36:16-05:00</lastmod>
+    <loc>https://tbrown122387.github.io/authors/admin.html</loc>
+    <lastmod>2026-01-19T15:21:14-05:00</lastmod>
+  </url><url>
+    <loc>https://tbrown122387.github.io/authors/authors.html</loc>
   </url><url>
     <loc>https://tbrown122387.github.io/courses.html</loc>
     <lastmod>2020-01-29T09:43:32-05:00</lastmod>
+  </url><url>
+    <loc>https://tbrown122387.github.io/authors.html</loc>
+    <lastmod>2026-01-19T15:21:14-05:00</lastmod>
   </url><url>
     <loc>https://tbrown122387.github.io/categories.html</loc>
   </url><url>
